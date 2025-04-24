@@ -1,0 +1,8 @@
+pip install pandas
+pip install python-pptx
+pip install openpyxl
+pip install comtypes
+
+
+
+python -m pip install
